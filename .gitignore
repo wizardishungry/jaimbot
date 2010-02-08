@@ -8,3 +8,5 @@ target
 *_persistance.xml
 build.properties
 *.lck
+conf/bot.properties
+conf/megahal/megahal.brn
